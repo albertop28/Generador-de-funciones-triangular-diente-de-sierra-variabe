@@ -1,0 +1,37 @@
+//Entradas
+net "en1" loc = "D6";
+net "en2" loc = "C8";
+net "clock" loc = "E7";
+net "sensor" loc = "D4";
+//Indicadores leds
+net "convs(0)" loc = "N14";
+net "convs(1)" loc = "N7";
+net "convs(2)" loc = "N5";
+net "convs(3)" loc = "R13";
+#Pines señal de salida
+net "senal(0)" loc = "E15";
+net "senal(1)" loc = "C15";
+net "senal(2)" loc = "B14";
+net "senal(3)" loc = "A12";
+net "senal(4)" loc = "B11";
+net "senal(5)" loc = "A9";
+net "senal(6)" loc = "B7";
+net "senal(7)" loc = "A6";
+//Anódos
+net "AN(3)" loc = "G12";
+net "AN(2)" loc = "F13";
+net "AN(1)" loc = "H12";
+net "AN(0)" loc = "G13";
+net "ANA(3)" loc = "K12";
+net "ANA(2)" loc = "K11";
+net "ANA(1)" loc = "H13";
+net "ANA(0)" loc = "J13";
+//Displays
+net "Display(0)" loc = "N15";
+net "Display(1)" loc = "L14";
+net "Display(2)" loc = "K15";
+net "Display(3)" loc = "P14";
+net "Display(4)" loc = "P15";
+net "Display(5)" loc = "M15";
+net "Display(6)" loc = "L15";
+net "Display(7)" loc = "K13";
